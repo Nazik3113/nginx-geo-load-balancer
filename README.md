@@ -51,8 +51,9 @@ Tests were done using `NGROK`.
   * Nginx UK upstream(United Kingdom IP).
     ![Nginx uk upstream.](./example_images/nginx_uk_upstream.png)
 
-  * Nginx UK upstream(United States IP).
+  * Nginx US upstream(United States IP).
     ![Nginx us 1 upstream.](./example_images/nginx_us1_upstream.png)
+    
     ![Nginx us 2 upstream.](./example_images/nginx_us2_upstream.png)
 
   * Nginx backup server.
