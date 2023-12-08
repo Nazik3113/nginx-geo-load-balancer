@@ -52,6 +52,7 @@ Tests were done using `NGROK`.
     ![Nginx uk upstream.](./example_images/nginx_uk_upstream.png)
 
   * Nginx US upstream(United States IP).
+
     ![Nginx us 1 upstream.](./example_images/nginx_us1_upstream.png)
     
     ![Nginx us 2 upstream.](./example_images/nginx_us2_upstream.png)
